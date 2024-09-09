@@ -4,7 +4,6 @@ Para correr el juevo debes seguir las siguientes intrucciones en la terminal:
 
 
 ```python
-cd Game_code
 python3 main.py
 ```
 
