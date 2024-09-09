@@ -1,6 +1,6 @@
 # Game Code
 
-Para correr el juevo debes seguir las siguientes intrucciones en la terminal::fa-check:
+Para correr el juevo debes seguir las siguientes intrucciones en la terminal:
 
 
 ```python
