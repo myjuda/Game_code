@@ -17,6 +17,8 @@ El te va a pedir lo siguiente:
 
 # App Project
 
+Esta secuencia, denota las instalaciones previas en el terminal de comandos.
+
 ````sh
 git clone
 cd app
